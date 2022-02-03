@@ -1,6 +1,6 @@
-# worldtime
+# Globetime
 
-A new Flutter project.
+A new Flutter project using latest dart version 2.15.1 to keep you informed about time around the major places of the globe.
 
 ## Getting Started
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<img width="151" alt="Capture" src="https://user-images.githubusercontent.com/89722417/152356970-8316dbfc-f33b-4072-b3c9-160d0a6715d3.PNG">
+<img width="151" alt="Capture1" src="https://user-images.githubusercontent.com/89722417/152356992-6723145f-b827-490d-9a53-dca7b8607b98.PNG">
